@@ -40,3 +40,28 @@ h1, h2 {
 .tableauViz {
     display: none;
 }
+
+/* New styles for Resume section */
+#resume {
+    margin-top: 40px;
+}
+
+#resume h3 {
+    color: #3b0bca;
+    margin-top: 20px;
+}
+
+#resume p, #resume ul {
+    margin-bottom: 15px;
+}
+
+#resume ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#resume ul li {
+    margin-left: 20px;
+    text-align: left;
+}
+
